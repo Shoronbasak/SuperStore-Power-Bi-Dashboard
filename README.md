@@ -1,5 +1,7 @@
 # Superstore Dashboard using Power Bi📈📊
 
+![Superstore Power BI Dashboard](./Superstore%20Power%20BI.png)
+
 This Power BI dashboard presents a comprehensive overview of the **Superstore** sales and profit data, offering insights into business performance over time. It is designed to help stakeholders, analysts, and decision-makers understand trends, segment-wise performance, and product-level profitability.
 
 ---
